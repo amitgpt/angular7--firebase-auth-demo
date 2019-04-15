@@ -1,10 +1,10 @@
-# angular7--firebase-auth-demo
+# angular7-firebase-auth-demo
 
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
-##firebase config on app.module.ts
+## firebase config on app.module.ts
 
 var config = {
   apiKey: "apiKey",
@@ -15,10 +15,10 @@ var config = {
     messagingSenderId: "messagingSenderId"
 };
 
-#login
+# login
 Login URL : '/user/login'
 
-#signup 
+# signup 
 Signup URL : '/user/register'
 
 
